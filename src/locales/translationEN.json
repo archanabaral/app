@@ -1,0 +1,11 @@
+{
+  "welcome": "welcome",
+  "home": "Home",
+  "about": "About us ",
+  "logout": "Log Out",
+  "name": "FirstName",
+  "caste": "LastName",
+  "email": "Email",
+  "post": "Designation",
+  "app": "App"
+}
